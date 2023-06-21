@@ -117,7 +117,7 @@ To run the project, execute the following command:
 
 ```
   - run rubby terminal
-  - open / copy the morse.rb file
+  - open / copy the decode_morse_code.rb file
   - press enter to see the results
   - Also you can use visual studio code for best practice and show the results on the terminals
 
