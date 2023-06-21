@@ -144,7 +144,11 @@ To run the project, execute the following command:
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind/)
 
-👤 
+👤 **Massa zoumanigui**
+
+- GitHub: [@massazoum](https://github.com/massazoum)
+- Twitter: [@zoumaniguimass1](https://twitter.com/zoumaniguimass1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zoumtechmassa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
