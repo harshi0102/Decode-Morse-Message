@@ -41,3 +41,6 @@ def decode_message(message)
   words.map { |word| decode_word(word) }.join(' ')
 end
 #messagedecoding
+message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
+decoded_message = decode_message(message)
+puts decoded_message
